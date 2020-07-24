@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="582.8645"
+   height="351.64883"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/dapper/work/hepr8.physics.tamu.edu/talks/latest"
+   sodipodi:docname="global_coordinate_systems.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path3209"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path3206"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3200"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3203"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="373.96466"
+     inkscape:cy="141.46187"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1018"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-92.785728,-110.35621)">
+    <image
+       y="157.00505"
+       x="92.785728"
+       id="image2215"
+       height="305"
+       width="563"
+       sodipodi:absref="/home/dapper/work/hepr8.physics.tamu.edu/talks/2008-03-17_pog_again/muon_system.png"
+       xlink:href="/home/dapper/work/hepr8.physics.tamu.edu/talks/2008-03-17_pog_again/muon_system.png" />
+    <g
+       id="g12149">
+      <path
+         id="path2218"
+         d="M 362.85714,146.6479 L 378.57143,275.93361 L 321.73359,362.93307"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3391"
+         d="M 378.30213,276.05995 L 474.26662,283.13102"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g12153">
+      <g
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="g7272">
+        <path
+           id="path4362"
+           d="M 381.875,148.625 L 361.8125,272.9375 L 258.71875,260.9375 L 258.46875,262.90625 L 362.53125,275.03125 L 363.46875,275.15625 L 363.625,274.1875 L 383.84375,148.9375 L 381.875,148.625 z "
+           style="color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           id="path7278"
+           d="M 381.57395,156.67866 L 384.88599,161.26455 L 383.16627,146.80625 L 376.98806,159.99069 L 381.57395,156.67866 z "
+           style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8pt;marker-start:none;stroke-opacity:1" />
+        <path
+           id="path7280"
+           d="M 266.5453,262.8436 L 270.98132,259.33336 L 256.61249,261.68638 L 270.05554,267.27961 L 266.5453,262.8436 z "
+           style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8pt;marker-start:none;stroke-opacity:1" />
+      </g>
+      <g
+         style="fill:#0000ff;fill-opacity:1;stroke:none"
+         id="g9222">
+        <path
+           id="path8251"
+           d="M 362.34375,273.5625 L 361.9375,275.53125 L 444.78125,292.6875 L 445.1875,290.75 L 362.34375,273.5625 z "
+           style="opacity:1;color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           id="path9228"
+           d="M 437.13877,290.09332 L 432.41005,293.19803 L 446.93056,292.12332 L 434.03406,285.3646 L 437.13877,290.09332 z "
+           style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8pt;marker-start:none" />
+      </g>
+    </g>
+    <g
+       id="g12145"
+       transform="translate(2.0203051,1.0101525)">
+      <path
+         id="path10199"
+         d="M 281.32748,163.42794 L 299.00515,194.23759 L 273.75134,219.99648"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:url(#Arrow1Sstart);marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path11174"
+         d="M 297.995,194.23759 L 323.24881,194.74267"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g12162"
+       transform="translate(-29.7995,1.0101526)">
+      <path
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:url(#Arrow1Sstart);marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 281.32748,163.42794 L 299.00515,194.23759 L 273.75134,219.99648"
+         id="path12164" />
+      <path
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 297.995,194.23759 L 323.24881,194.74267"
+         id="path12166" />
+    </g>
+    <g
+       transform="translate(-61.114229,1.5152288)"
+       id="g12168">
+      <path
+         id="path12170"
+         d="M 281.32748,163.42794 L 299.00515,194.23759 L 273.75134,219.99648"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:url(#Arrow1Sstart);marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path12172"
+         d="M 297.995,194.23759 L 323.24881,194.74267"
+         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       x="246.9823"
+       y="124.03199"
+       id="text12182"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12184"
+         x="246.9823"
+         y="124.03199">individual</tspan><tspan
+         sodipodi:role="line"
+         x="246.9823"
+         y="146.53199"
+         id="tspan12196">alignments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       x="476.79199"
+       y="133.62845"
+       id="text12188"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12190"
+         x="476.79199"
+         y="133.62845">global tracker coordinate system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       x="534.87579"
+       y="162.92287"
+       id="text12200"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12202"
+         x="534.87579"
+         y="162.92287">global muon coordinate system</tspan></text>
+  </g>
+</svg>
